@@ -1,0 +1,6 @@
+[{"limit": 0, "price": 0, "value": "", "excess": "No", "coverage": "do", "retention": 0, "bundled_with": "mpl"}]
+[{"limit": 0, "price": 0, "value": "", "excess": "Yes", "coverage": "epli", "retention": 0, "bundled_with": "crm"}]
+[{"limit": 0, "price": 0, "value": "", "excess": "Yes", "coverage": "fiduciary", "retention": 0, "bundled_with": "epli"}]
+[{"limit": 100000, "price": 2000, "value": "", "excess": "No", "coverage": "do", "retention": 2000000, "bundled_with": "Other"}]
+[]
+[]
